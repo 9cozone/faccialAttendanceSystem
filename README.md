@@ -1,2 +1,1 @@
-# faccialAttendanceSystem
-This system is design to take attendance in school or office setting by facial capturing.
+This project is developed using php, mysql, javascript and Jquery. its a web portal for higher institution ( college) that helps in elimating the mutulation and forgry of signatary by students. All studend must be registered, when login, the system automatically opens the carmera the face is captured and is saved at the database.
